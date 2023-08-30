@@ -1,0 +1,9 @@
+AACCA
+Backspace
+BackspaceACCAACCCCAACCA
+Backspace
+BackspaceACCAACCCCCCAACCA
+Backspace
+BackspaceACCSpaceSpaceSpaceSpaceDDD
+BackspaceAD
+BackspaceAFFSpaceSpaceSpaceSpaceSpaceSpaceSpaceSpace
